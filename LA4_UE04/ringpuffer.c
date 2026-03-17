@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdbool.h>
+
 /* USER CODE BEGIN PV */
 #define ADC_RING_SIZE 128
 
